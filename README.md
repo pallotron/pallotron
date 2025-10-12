@@ -2,7 +2,7 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://angelofailla.com/)](https://angelofailla.com/) [![Gmail Badge](https://img.shields.io/badge/-pallotron@gmail.com-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:pallotron@gmail.com)](mailto:pallotron@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallotron/)](https://www.linkedin.com/in/pallotron/)  
-<p><img src=https://komarev.com/ghpvc/?username=pallotron alt=pallotron /></p>
+[![Profile views](https://komarev.com/ghpvc/?username=pallotron)](https://komarev.com/ghpvc/?username=pallotron)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pallotron&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallotron&layout=compact)
