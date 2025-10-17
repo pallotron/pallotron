@@ -1,5 +1,16 @@
-- name: "update readme with blog posts"
-  uses: kohrongying/readme-the-rss@v1
-  with:
-    feed_url: https://angelofailla.com/index.xml
-    count: 3
+name: Update readme with blog posts
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: do-the-thing.sh
+      - uses: risadams/update-md-rss@v1.0.4
+        with:
+          feed_list: https://angelofailla.com/index.xml
+
+
+    
