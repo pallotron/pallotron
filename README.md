@@ -2,7 +2,7 @@
 
 [![Personal Website](https://img.shields.io/badge/personal-website-blue?style=flat&link=https://angelofailla.com/)](https://img.shields.io/badge/personal-website-blue?style=flat&link=https://angelofailla.com/)
 
-# Latest blog posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Testing tricky network services with Linux Namespaces](https://angelofailla.com/posts/2025/10/16/testing-with-linux-namespaces/)
 - [Observations from Outside Meta](https://angelofailla.com/posts/2025/10/04/obervations_from_outside_meta/)
