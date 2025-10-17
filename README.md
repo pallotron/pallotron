@@ -4,6 +4,11 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing tricky network services with Linux Namespaces](https://angelofailla.com/posts/2025/10/16/testing-with-linux-namespaces/)
+- [Observations from Outside Meta](https://angelofailla.com/posts/2025/10/04/obervations_from_outside_meta/)
+- [End of fun-employment](https://angelofailla.com/posts/2025/09/02/new-job/)
+- [DNF&#39;ing LEL25 and Lessons Learned](https://angelofailla.com/posts/2025/08/10/lel25/)
+- [Celtic Knot 1000 Ride Report](https://angelofailla.com/posts/2025/06/04/celtic_knot_report/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Gmail Badge](https://img.shields.io/badge/-pallotron@gmail.com-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:pallotron@gmail.com)](mailto:pallotron@gmail.com) 
