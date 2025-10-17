@@ -1,0 +1,5 @@
+- name: "update readme with blog posts"
+  uses: kohrongying/readme-the-rss@v1
+  with:
+    feed_url: https://angelofailla.com/index.xml
+    count: 3
