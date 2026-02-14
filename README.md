@@ -7,11 +7,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing pvmlab: Your Local PXEboot Virtual Lab](https://angelofailla.com/posts/2026/02/14/introducing-pvmlab/)
 - [Building a Textual UI with Zero Experience Using AI Assistance](https://angelofailla.com/posts/2025/11/02/expenses_analyzer/)
 - [Testing tricky network services with Linux Namespaces](https://angelofailla.com/posts/2025/10/16/testing-with-linux-namespaces/)
 - [Observations from Outside Meta](https://angelofailla.com/posts/2025/10/04/obervations_from_outside_meta/)
 - [End of fun-employment](https://angelofailla.com/posts/2025/09/02/new-job/)
-- [DNF&#39;ing LEL25 and Lessons Learned](https://angelofailla.com/posts/2025/08/10/lel25/)
 <!-- BLOG-POST-LIST:END -->
 
 
